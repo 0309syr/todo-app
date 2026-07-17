@@ -1,0 +1,30 @@
+h1 {
+  color: rgb(3, 32, 138);
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+  padding-left: 0;
+  width: 300px;
+  margin: 0 auto;
+}
+
+#inputArea {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+
+li {
+  display: flex;
+}
+
+.deleteButton {
+  margin-left: auto;
+}
+
+.done {
+  color: lightslategray;
+}
